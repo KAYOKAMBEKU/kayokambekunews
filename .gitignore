@@ -1,0 +1,15 @@
+# Secrets
+.env
+db.php
+
+# Uploads (fichiers générés)
+uploads/
+
+# Logs
+*.log
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
